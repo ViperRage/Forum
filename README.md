@@ -1,9 +1,9 @@
 ###Forums
 
-###[Minecraft Help](https://github.com/ViperRage/Forum/blob/master/MinecraftRelated.md "https://github.com/ViperRage/Forum/blob/master/MinecraftRelated.md")
+### [Minecraft Help](https://github.com/ViperRage/Forum/issues/new "https://github.com/ViperRage/Forum/issues/new)
 
-###[General Help](https://github.com/ViperRage/Forum/blob/master/GeneralRelated.md "https://github.com/ViperRage/Forum/blob/master/GeneralRelated.md")
+### [General Help](https://github.com/ViperRage/Forum/issues/new "https://github.com/ViperRage/Forum/issues/new")
 
-###[Other Help](https://github.com/ViperRage/Forum/blob/master/OtherRelated.md "https://github.com/ViperRage/Forum/blob/master/OtherRelated.md")
+### [Other Help](https://github.com/ViperRage/Forum/issues/new "https://github.com/ViperRage/Forum/issues/new)
 
 ###[FORMAT](https://github.com/ViperRage/Forum/blob/master/Format.md "https://github.com/ViperRage/Forum/blob/master/Format.md")
