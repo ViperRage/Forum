@@ -1,3 +1,3 @@
-#The forums for minecraft
+##The forums for minecraft
 
-###[http://google.com "k"]
+###[New Forum](https://github.com/ViperRage/Forum/issues "k")
